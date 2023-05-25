@@ -1,0 +1,9 @@
+.Expense{
+background-color: blueviolet;
+border-radius: 2rem;
+border-left: 1rem;
+border-bottom: 1rem;
+margin: 10%;
+padding-top: 5%;
+padding-bottom: 5%;
+}
